@@ -36,10 +36,10 @@ To run the application locally:
    flutter run
    ```
 6. Have created test accounts:
-       test1@gmail.com
-       user2@gmail.com
-       user1@gmail.com
-       sanjoneyyan@gmail.com
+       test1@gmail.com, 
+       user2@gmail.com, 
+       user1@gmail.com, 
+       sanjoneyyan@gmail.com, 
    all have the same password : 123456
 
 
